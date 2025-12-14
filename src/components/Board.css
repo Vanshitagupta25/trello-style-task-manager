@@ -1,0 +1,25 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.column {
+  background: #f5f7fb;
+  padding: 12px;
+  border-radius: 10px;
+  min-height: 60vh;
+  overflow-y: auto;
+}
+
+.column h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 900px) {
+  .board {
+    grid-template-columns: 1fr;
+  }
+}

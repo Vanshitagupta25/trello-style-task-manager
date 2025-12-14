@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Task Manager App (Trello-Style MVP)
 
 A responsive Task Management web application inspired by Trello/Notion.  
@@ -53,3 +54,6 @@ Users can create, edit, delete, filter, and drag-and-drop tasks across boards wi
 ---
 
 ## 📁 Project Structure
+=======
+# trello-style-task-manager
+>>>>>>> e08cca8676c11220f5582b86587713f794f3add2
